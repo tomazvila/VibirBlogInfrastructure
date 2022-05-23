@@ -1,2 +1,2 @@
-# VibirBlogInfrastructure
+# VibirBlog Infrastructure
 Infrastructure for VibirBlog
