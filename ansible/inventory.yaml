@@ -1,0 +1,6 @@
+all:
+  hosts:
+    production:
+      ansible_host: 192.168.0.162
+    development:
+      ansible_host: 192.168.0.198
