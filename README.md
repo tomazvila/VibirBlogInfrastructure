@@ -36,6 +36,6 @@ Infrastructure for VibirBlog
 
 # TODO
 
-- [ ] figure out how to spinup vm to test ansible
+- [ ] figure out how to spinup vm to test ansible (QEMU)
 - [ ] create playbook to install docker
 	- [ ] set up playbook so that prod and dev docker installation differs
