@@ -36,6 +36,9 @@ Infrastructure for VibirBlog
 
 # TODO
 
+- [x] figure out how to separate production-manjaroo and development-ubuntu
+- [ ] create playbook to install QEMU
 - [ ] figure out how to spinup vm to test ansible (QEMU)
 - [ ] create playbook to install docker
-	- [ ] set up playbook so that prod and dev docker installation differs
+  - [ ] set up playbook so that prod and dev docker installation differs
+
